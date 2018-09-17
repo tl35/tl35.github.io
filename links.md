@@ -14,7 +14,7 @@ tags: [链接,友情,交换]
 留言格式参考本站链接，谢谢!
 
 #### 二.链接收藏
-<li>
+<!--li>
 <a href="https://news.ycombinator.com/">
   Hacker News
 </a>
@@ -38,4 +38,4 @@ tags: [链接,友情,交换]
 <a href="http://99u.com/">
   99U
 </a>
-</li>
+</li-->
