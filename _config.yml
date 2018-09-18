@@ -43,4 +43,9 @@ skype: ptsteadman
 lat: 40.715911 
 long: -73.962147
 
-theme: corporate 
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: corporate # change this
+
+
