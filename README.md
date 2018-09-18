@@ -1,37 +1,67 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+                .::         .::                       .::      .::                 
+                .::       .:.::                        .::   .::                    
+                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
+                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
+                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
+                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
+                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
+                          Copyright (c) 2016-2018 liberxue
+                                 http://www.liberxue.com
+                           
+#### liberxue.github.io preview (demo) (http://www.liberxue.com)
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+`Jekyll Themes`
+----------
+[中文版帮助文档README](/ChinaREADME.md)
+## `Lightweight`  `Minimalist`  `Jekyll blog`
 
-## Demo
+### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
+### The second step is to modify the _config.yml in URL for your domain name
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+### OK all right, it's that simple
 
-The main page would look like this:
+#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+- [x] Automatic generation tag
+- [x] Automatic generation of JSON search
+- [x] Adaptive template
+- [x] Automatic generation of feed.xml
+- [x] Automatic paging generation
+- [x] Modify _config.yml's links for your menu
+- [x] Modify the _config.yml of paginate for how many pages you want to page
 
-The post page would look like this:
+![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+ ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
 
-## Features
+ ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+ ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
 
-## Installation:
+  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+ ----------
+![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
 
-## License
+### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+ 
+----
 
-GNU General Public License v3.0
+![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
+  
+  
 
-## Donate
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+### 2. modify _config.yml url URL for your domain
+
+![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
+  
+
+
+
+* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
+ 
+* [Email](mailto:liberxue@gmail.com)
+ 
+* [Twitter](https://twitter.com/liberxue).
+
